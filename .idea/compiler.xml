@@ -9,6 +9,7 @@
         <module name="chapter-3-spring-boot-web" />
         <module name="chapter2-spring-boot-config" />
         <module name="springboot-helloworld" />
+        <module name="chapter-4-spring-boot-validating-form-input" />
         <module name="chapter1-spring-boot-quickstart" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="chapter-3-spring-boot-web" options="-parameters" />
+      <module name="chapter-4-spring-boot-validating-form-input" options="-parameters" />
       <module name="chapter1-spring-boot-quickstart" options="-parameters" />
       <module name="chapter2-spring-boot-config" options="-parameters" />
       <module name="springboot-helloworld" options="-parameters" />
