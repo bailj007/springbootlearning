@@ -15,6 +15,8 @@
         <module>chapter-3-spring-boot-web</module>
         <module>chapter-4-spring-boot-validating-form-input</module>
         <module>chapter-4-spring-boot-web-thymeleaf</module>
+        <module>chapter-5-spring-boot-data-jpa</module>
+        <module>chapter-5-spring-boot-paging-sorting</module>
     </modules>
 
 

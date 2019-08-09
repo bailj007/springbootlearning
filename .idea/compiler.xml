@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chapter2-spring-boot-config" />
-        <module name="chapter1-spring-boot-quickstart" />
-        <module name="chapter-4-spring-boot-validating-form-input" />
         <module name="springboot-helloworld" />
-        <module name="chapter-4-spring-boot-web-thymeleaf" />
         <module name="chapter-3-spring-boot-web" />
+        <module name="chapter1-spring-boot-quickstart" />
+        <module name="chapter2-spring-boot-config" />
+        <module name="chapter-5-spring-boot-data-jpa" />
+        <module name="chapter-4-spring-boot-web-thymeleaf" />
+        <module name="chapter-5-spring-boot-paging-sorting" />
+        <module name="chapter-4-spring-boot-validating-form-input" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
@@ -21,6 +23,8 @@
       <module name="chapter-3-spring-boot-web" options="-parameters" />
       <module name="chapter-4-spring-boot-validating-form-input" options="-parameters" />
       <module name="chapter-4-spring-boot-web-thymeleaf" options="-parameters" />
+      <module name="chapter-5-spring-boot-data-jpa" options="-parameters" />
+      <module name="chapter-5-spring-boot-paging-sorting" options="-parameters" />
       <module name="chapter1-spring-boot-quickstart" options="-parameters" />
       <module name="chapter2-spring-boot-config" options="-parameters" />
       <module name="springboot-helloworld" options="-parameters" />
